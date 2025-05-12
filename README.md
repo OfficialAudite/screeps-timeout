@@ -11,6 +11,12 @@ A mod that fixes hard stuck ticks because of undefined timeout value.
 
 Shoutout to **drdvorak** and **chaosmark** on discord for finding the issue!
 
+# Note
+
+This mod has not been tested yet, so use it at your own risk!
+While I'm working on this mod, it will get better and better, so please be patient.
+
+
 # How to install the mod to your server:
 
 - First you will need [screepsmod-auth](https://github.com/ScreepsMods/screepsmod-auth) and [screepsmod-admin-utils](https://github.com/ScreepsMods/screepsmod-admin-utils)
